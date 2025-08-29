@@ -1,0 +1,4 @@
+dist/*
+clock_app.egg-info/*
+*.pyc
+__pycache__/
